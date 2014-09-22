@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<item id='J'>
+		<damage>4</damage> 		<!--伤害参数值 -->
+		<reviveTime>1</reviveTime>	<!-- 技能冷却时间 -->
+		<describe>直捣黄龙</describe>	<!--技能描述 -->
+	</item>
+
+	<item id='U'>
+		<damage>4</damage> 		<!--伤害参数值 -->
+		<reviveTime>2</reviveTime>	<!-- 技能冷却时间 -->
+		<describe>神龙摆尾</describe>	<!--技能描述 -->
+	</item>
+
+	<item id='I'>
+		<damage>5</damage> 		<!--伤害参数值 -->
+		<reviveTime>2</reviveTime> <!-- 技能冷却时间 -->
+		<describe>亢龙有悔</describe>	<!--技能描述 -->
+	</item>
+
+	<item id='O'>
+		<damage>6</damage> 		<!--伤害参数值 -->
+		<reviveTime>2</reviveTime> <!-- 技能冷却时间 -->
+		<describe>回龙在天</describe>	<!--技能描述 -->
+	</item>
+
+	<item id='H'>
+		<damage>7</damage> 		<!--伤害参数值 -->
+		<reviveTime>2</reviveTime> <!-- 技能冷却时间 -->
+		<describe>龙战于野</describe>	<!--技能描述 -->
+	</item>
+
+	<item id='L'>
+		<damage>8</damage> 		<!--伤害参数值 -->
+		<reviveTime>2</reviveTime> <!-- 技能冷却时间 -->
+		<describe>鱼跃于渊 </describe>	<!--技能描述 -->
+	</item>
+
+</root>

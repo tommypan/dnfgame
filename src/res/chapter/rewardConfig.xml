@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item id="1">	<!-- 第一章节 -->
+		<money>1000</money> <!-- 奖励金币 -->
+		<skillId>u</skillId>  <!-- 获得技能 -->
+		<levelUp>1</levelUp> <!-- 是否升级 -->
+	</item>
+
+	<item id="2">	<!-- 第二章节 -->
+		<money>1000</money>
+		<skillId>i</skillId>
+		<levelUp>2</levelUp>
+	</item>
+
+	<item id="3">	<!-- 第三章节 -->
+		<money>1000</money>
+		<skillId>o</skillId>
+		<levelUp>1</levelUp>
+	</item>
+
+	<item id="4">	<!-- 第四章节 -->
+		<money>1000</money>
+		<skillId>h</skillId>
+		<levelUp>2</levelUp>
+	</item>
+
+	<item id="5">	<!-- 第五章节 -->
+		<money>1000</money>
+		<skillId>l</skillId>
+		<levelUp>3</levelUp>
+	</item>
+
+	<item id="6">	<!-- 第六章节 -->
+		<money>1000</money>
+		<skillId>l</skillId>
+		<levelUp>2</levelUp>
+	</item>
+
+	<item id="7">	<!-- 第七章节 -->
+		<money>1000</money>
+		<skillId>l</skillId>
+		<levelUp>3</levelUp>
+	</item>
+
+	<item id="8">	<!-- 第八章节 -->
+		<money>1000</money>
+		<skillId>l</skillId>
+		<levelUp>2</levelUp>
+	</item>
+</root>

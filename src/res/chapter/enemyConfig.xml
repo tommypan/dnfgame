@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!--0-1900(场景一) 600-2500(场景二) 1600-3100(场景三) 英雄活动范围 -->
+	<!--0-1900(场景一) 1900-2500(场景二) 2500-3100(场景三)各个npc配置地点不应该超出其相应场景界限 -->
+	<!-- 340-590 y值 -->
+	<chapter id="1">		  							    <!-- 第一章节 -->
+		<item id="1" level="1" x="1400" y="456" scene="1" />  <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="1" level="1" x="1400" y="556" scene="1" />
+		<item id="3" level="1" x="1400" y="506" scene="1" />
+		<item id="3" level="1" x="800" y="556" scene="1" />
+		<item id="1" level="1" x="800" y="556" scene="1" />
+		<item id="1" level="1" x="800" y="456" scene="1" />
+
+		<item id="1" level="1" x="2250" y="390" scene="2" />
+		<item id="3" level="1" x="2100" y="400" scene="2" />
+		<item id="3" level="2" x="2300" y="420" scene="2" />
+
+
+		<item id="1" level="1" x="2900" y="500" scene="3" />
+		<item id="1" level="1" x="2900" y="456" scene="3" />
+		<item id="3" level="2" x="2900" y="406" scene="3" />
+		<item id="15" level="1" x="2900" y="400" scene="3" />
+		<item id="14" level="1" x="2700" y="500" scene="3" />
+
+	</chapter>
+
+	<chapter id="2">		  				    <!-- 第二章节 -->
+
+		<item id="3" level="1" x="1400" y="456" scene="1" />
+		<item id="4" level="1" x="1400" y="556" scene="1" />
+		<item id="4" level="1" x="1400" y="506" scene="1" />
+		<item id="4" level="1" x="800" y="556" scene="1" />
+		<item id="3" level="1" x="800" y="556" scene="1" />
+		<item id="3" level="1" x="800" y="456" scene="1" />
+
+		<item id="4" level="1" x="2100" y="400" scene="2" />
+		<item id="4" level="2" x="2300" y="420" scene="2" />
+		<item id="2" level="1" x="2250" y="390" scene="2" />
+
+		<item id="3" level="1" x="2900" y="456" scene="3" />
+		<item id="4" level="2" x="2900" y="406" scene="3" />
+		<item id="3" level="1" x="2900" y="500" scene="3" />
+		<item id="15" level="1" x="2900" y="400" scene="3" />
+		<item id="18" level="1" x="2900" y="400" scene="3" />
+	</chapter>
+
+	<chapter id="3">		  				    <!-- 第三章节 -->
+		<item id="1" level="1" x="1400" y="356" scene="1" /> <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="4" level="1" x="1400" y="456" scene="1" />
+		<item id="4" level="1" x="1400" y="556" scene="1" />
+		<item id="5" level="1" x="1400" y="506" scene="1" />
+		<item id="5" level="1" x="800" y="556" scene="1" />
+		<item id="4" level="1" x="800" y="556" scene="1" />
+		<item id="4" level="1" x="800" y="456" scene="1" />
+
+
+		<item id="4" level="1" x="2000" y="556" scene="2" />
+		<item id="5" level="1" x="2100" y="400" scene="2" />
+		<item id="5" level="2" x="2300" y="420" scene="2" />
+		<item id="4" level="1" x="2250" y="390" scene="2" />
+
+		<item id="4" level="1" x="2900" y="456" scene="3" />
+		<item id="5" level="2" x="2900" y="406" scene="3" />
+		<item id="4" level="1" x="2900" y="500" scene="3" />
+		<item id="5" level="1" x="2900" y="510" scene="3" />
+		<item id="15" level="1" x="2900" y="400" scene="3" />
+		<item id="16" level="1" x="3000" y="400" scene="3" />
+	</chapter>
+
+	<chapter id="4">		  				    <!-- 第四章节 -->
+		<item id="1" level="1" x="1400" y="356" scene="1" /> <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="5" level="1" x="1400" y="456" scene="1" />
+		<item id="5" level="1" x="1400" y="556" scene="1" />
+		<item id="6" level="1" x="1400" y="506" scene="1" />
+		<item id="6" level="1" x="800" y="556" scene="1" />
+		<item id="5" level="1" x="800" y="556" scene="1" />
+		<item id="6" level="1" x="800" y="456" scene="1" />
+
+
+		<item id="5" level="1" x="2000" y="556" scene="2" />
+		<item id="6" level="1" x="2100" y="400" scene="2" />
+		<item id="6" level="2" x="2300" y="420" scene="2" />
+		<item id="5" level="1" x="2250" y="390" scene="2" />
+
+		<item id="5" level="1" x="2900" y="456" scene="3" />
+		<item id="6" level="2" x="2900" y="406" scene="3" />
+		<item id="5" level="1" x="2900" y="500" scene="3" />
+		<item id="6" level="1" x="2900" y="510" scene="3" />
+		<item id="17" level="1" x="2900" y="400" scene="3" />
+	</chapter>
+
+	<chapter id="5">		  				    <!-- 第五章节 -->
+		<item id="1" level="1" x="1400" y="356" scene="1" /> <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="6" level="1" x="1400" y="456" scene="1" />
+		<item id="6" level="1" x="1400" y="556" scene="1" />
+		<item id="7" level="1" x="1400" y="506" scene="1" />
+		<item id="7" level="1" x="800" y="556" scene="1" />
+		<item id="6" level="1" x="800" y="556" scene="1" />
+		<item id="6" level="1" x="800" y="456" scene="1" />
+
+
+		<item id="6" level="1" x="2000" y="556" scene="2" />
+		<item id="7" level="1" x="2100" y="400" scene="2" />
+		<item id="7" level="2" x="2300" y="420" scene="2" />
+		<item id="6" level="1" x="2250" y="390" scene="2" />
+
+		<item id="6" level="1" x="2900" y="456" scene="3" />
+		<item id="7" level="2" x="2900" y="406" scene="3" />
+		<item id="6" level="1" x="2900" y="500" scene="3" />
+		<item id="7" level="1" x="2900" y="510" scene="3" />
+		<item id="19" level="1" x="2900" y="400" scene="3" />
+	</chapter>
+
+	<chapter id="6">		  				    <!-- 第六章节 -->
+		<item id="7" level="1" x="1400" y="356" scene="1" /> <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="7" level="1" x="1400" y="456" scene="1" />
+		<item id="7" level="1" x="1400" y="556" scene="1" />
+		<item id="8" level="1" x="1400" y="506" scene="1" />
+		<item id="8" level="1" x="800" y="556" scene="1" />
+		<item id="7" level="1" x="800" y="556" scene="1" />
+		<item id="7" level="1" x="800" y="456" scene="1" />
+
+
+		<item id="7" level="1" x="2000" y="556" scene="2" />
+		<item id="8" level="1" x="2100" y="400" scene="2" />
+		<item id="8" level="2" x="2300" y="420" scene="2" />
+		<item id="7" level="1" x="2250" y="390" scene="2" />
+
+		<item id="7" level="1" x="2900" y="456" scene="3" />
+		<item id="8" level="2" x="2900" y="406" scene="3" />
+		<item id="7" level="1" x="2900" y="500" scene="3" />
+		<item id="8" level="1" x="2900" y="510" scene="3" />
+		<item id="17" level="1" x="2900" y="400" scene="3" />
+	</chapter>
+
+	<chapter id="7">		  				    <!-- 第七章节 -->
+		<item id="8" level="1" x="1400" y="356" scene="1" /> <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="9" level="1" x="1400" y="456" scene="1" />
+		<item id="8" level="1" x="1400" y="556" scene="1" />
+		<item id="9" level="1" x="1400" y="506" scene="1" />
+		<item id="9" level="1" x="800" y="556" scene="1" />
+		<item id="8" level="1" x="800" y="556" scene="1" />
+		<item id="8" level="1" x="800" y="456" scene="1" />
+
+
+		<item id="8" level="1" x="2000" y="556" scene="2" />
+		<item id="9" level="1" x="2100" y="400" scene="2" />
+		<item id="9" level="2" x="2300" y="420" scene="2" />
+		<item id="8" level="1" x="2250" y="390" scene="2" />
+
+		<item id="8" level="1" x="2900" y="456" scene="3" />
+		<item id="9" level="2" x="2900" y="406" scene="3" />
+		<item id="8" level="1" x="2900" y="500" scene="3" />
+		<item id="9" level="1" x="2900" y="510" scene="3" />
+		<item id="16" level="1" x="2900" y="400" scene="3" />
+	</chapter>
+
+	<chapter id="8">		  				    <!-- 第八章节 -->
+		<item id="1" level="1" x="1400" y="356" scene="1" /> <!-- 敌军id，等级，初始化x，y坐标 -->
+		<item id="9" level="1" x="1400" y="456" scene="1" />
+		<item id="9" level="1" x="1400" y="556" scene="1" />
+		<item id="10" level="1" x="1400" y="506" scene="1" />
+		<item id="10" level="1" x="800" y="556" scene="1" />
+		<item id="9" level="1" x="800" y="556" scene="1" />
+		<item id="9" level="1" x="800" y="456" scene="1" />
+
+
+		<item id="9" level="1" x="2000" y="556" scene="2" />
+		<item id="10" level="1" x="2100" y="400" scene="2" />
+		<item id="10" level="2" x="2300" y="420" scene="2" />
+		<item id="9" level="1" x="2250" y="390" scene="2" />
+
+		<item id="9" level="1" x="2900" y="456" scene="3" />
+		<item id="10" level="2" x="2900" y="406" scene="3" />
+		<item id="9" level="1" x="2900" y="500" scene="3" />
+		<item id="10" level="1" x="2900" y="510" scene="3" />
+		<item id="15" level="1" x="2900" y="400" scene="3" />
+	</chapter>
+
+</root>

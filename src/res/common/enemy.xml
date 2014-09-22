@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<item id="1"> 		<!-- id标示 -->
+		<level>1</level>   <!--等级1（最多有三个等级） -->
+		<hp>500</hp> 		<!--血量 -->
+		<describe>一阶小怪</describe> <!--描述 -->
+		<skills>
+		</skills> 	<!--攻击技能 -->
+		<speedX>8</speedX>	<!--行走速度X -->
+		<speedY>8</speedY>	<!--行走速度Y -->
+		<iq>2</iq>			<!--智商0到10 -->
+		<attackHeight>20</attackHeight>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测 20-50 -->
+		<defenceNum>5</defenceNum> <!-- 防御值，0到10 -->
+	</item>
+
+	<item id="1">
+		<level>2</level>
+		<hp>700</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>2</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>5</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>3</level>
+		<hp>800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="2">
+		<level>1</level>
+		<hp>600</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="2">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="2">
+		<level>3</level>
+		<hp>1800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="3">
+		<level>1</level>
+		<hp>800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="3">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="3">
+		<level>3</level>
+		<hp>1800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+
+	<item id="4">
+		<level>1</level>
+		<hp>700</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="4">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="4">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="5">
+		<level>1</level>
+		<hp>800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="5">
+		<level>2</level>
+		<hp>1000</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="5">
+		<level>3</level>
+		<hp>1300</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="6">
+		<level>1</level>
+		<hp>600</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="6">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="6">
+		<level>3</level>
+		<hp>1400</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="7">
+		<level>1</level>
+		<hp>800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="7">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="7">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="8">
+		<level>1</level>
+		<hp>800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="8">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="8">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="9">
+		<level>1</level>
+		<hp>800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="9">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="9">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="10">
+		<level>1</level>
+		<hp>800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="10">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="10">
+		<level>3</level>
+		<hp>1800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="11">
+		<level>1</level>
+		<hp>700</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="11">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="11">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+
+	<item id="12">
+		<level>1</level>
+		<hp>600</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="12">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="12">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+
+	<item id="13">
+		<level>1</level>
+		<hp>600</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>5</speedX>
+		<speedY>5</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="13">
+		<level>2</level>
+		<hp>1100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="13">
+		<level>3</level>
+		<hp>1200</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>25</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<!--下面为boss的配置属性 -->
+	<!--下面为boss的配置属性 -->
+	<!--下面为boss的配置属性 -->
+	
+	
+	<item id="14">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="14">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="14">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+	<item id="15">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="15">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="15">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="16">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="16">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="16">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="17">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="17">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="17">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>9</speedX>
+		<speedY>9</speedY>
+		<iq>4</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="18">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>8</speedX>
+		<speedY>8</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="18">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="18">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>45</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="19">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>8</speedX>
+		<speedY>8</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="19">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="19">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>45</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="20">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>8</speedX>
+		<speedY>8</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="20">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="20">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>45</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+
+
+	<item id="21">
+		<level>1</level>
+		<hp>2800</hp>
+		<describe>一阶小怪</describe>
+		<skills></skills>
+		<speedX>8</speedX>
+		<speedY>8</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="21">
+		<level>2</level>
+		<hp>3100</hp>
+		<describe>二阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>35</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="21">
+		<level>3</level>
+		<hp>3800</hp>
+		<describe>三阶小怪</describe>
+		<skills></skills>
+		<speedX>6</speedX>
+		<speedY>6</speedY>
+		<iq>3</iq>
+		<attackHeight>45</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+</root>

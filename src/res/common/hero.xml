@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<item id="1">
+		<level>0</level> <!--等级1，升级不涉及到技能增多，技能获得由过关奖励所得 -->
+		<hp>6000</hp> 		<!--血量 -->
+		<describe>一阶英雄</describe> <!--描述 -->
+		<speedX>10</speedX>	<!--行走速度X，跑步速度是行走的2倍 -->
+		<speedY>10</speedY>	<!--行走速度Y，跑步速度是行走的2倍 -->
+		<jumpHeight>20</jumpHeight>	<!--跳跃高度 -->
+		<attackHeight>50</attackHeight>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测50到100 -->
+		<defenceNum>5</defenceNum>	<!-- 防御值，0到10 -->
+	</item>
+
+	<item id="1">
+		<level>1</level> <!--等级1，升级不涉及到技能增多，技能获得由过关奖励所得 -->
+		<hp>6000</hp> 		<!--血量 -->
+		<describe>一阶英雄</describe> <!--描述 -->
+		<speedX>10</speedX>	<!--行走速度X，跑步速度是行走的2倍 -->
+		<speedY>10</speedY>	<!--行走速度Y，跑步速度是行走的2倍 -->
+		<jumpHeight>20</jumpHeight>	<!--跳跃高度 -->
+		<attackHeight>50</attackHeight>	<!--攻击范围，主要是指纵向差距多少时开启碰撞检测50到100 -->
+		<defenceNum>5</defenceNum>	<!-- 防御值，0到10 -->
+	</item>
+
+	<item id="1">
+		<level>2</level>
+		<hp>6500</hp>
+		<describe>二阶英雄</describe>
+		<speedX>11</speedX>
+		<speedY>11</speedY>
+		<jumpHeight>30</jumpHeight>
+		<attackHeight>50</attackHeight>
+		<defenceNum>6</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>3</level>
+		<hp>7000</hp>
+		<describe>三阶英雄</describe>
+		<speedX>12</speedX>
+		<speedY>12</speedY>
+		<jumpHeight>30</jumpHeight>
+		<attackHeight>60</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>4</level>
+		<hp>7500</hp>
+		<describe>四阶英雄</describe>
+		<speedX>12</speedX>
+		<speedY>12</speedY>
+		<jumpHeight>35</jumpHeight>
+		<attackHeight>60</attackHeight>
+		<defenceNum>7</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>5</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>6</level>
+		<hp>8050</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>7</level>
+		<hp>8100</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>8</level>
+		<hp>8100</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>60</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>9</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>10</level>
+		<hp>8100</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>11</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>12</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>13</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>14</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>15</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>16</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>17</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>18</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>19</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>20</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>21</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>21</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>22</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>23</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>24</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>25</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>26</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>27</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>28</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+
+	<item id="1">
+		<level>29</level>
+		<hp>8000</hp>
+		<describe>五阶英雄</describe>
+		<speedX>13</speedX>
+		<speedY>13</speedY>
+		<jumpHeight>40</jumpHeight>
+		<attackHeight>65</attackHeight>
+		<defenceNum>8</defenceNum>
+	</item>
+</root>
